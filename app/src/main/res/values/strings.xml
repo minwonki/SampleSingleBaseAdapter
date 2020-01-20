@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleSingleBaseAdapter</string>
+    <string name="header">Single Row Adapter Testing</string>
+</resources>
